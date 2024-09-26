@@ -1,1 +1,1 @@
-export const serverUrl = "https://todo-server-1yz0.onrender.com/"
+export const serverUrl = "https://todo-server-1yz0.onrender.com"
